@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Mar  4 16:52:31 2025
+# Process ID: 5908
+# Current directory: C:/Users/rumar/Documents/Computer organization labs/Lab4/Lab4.runs/synth_1
+# Command line: vivado.exe -log Mux_8_to_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Mux_8_to_1.tcl
+# Log file: C:/Users/rumar/Documents/Computer organization labs/Lab4/Lab4.runs/synth_1/Mux_8_to_1.vds
+# Journal file: C:/Users/rumar/Documents/Computer organization labs/Lab4/Lab4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Mux_8_to_1.tcl -notrace
