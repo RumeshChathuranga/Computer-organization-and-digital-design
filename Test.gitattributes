@@ -1,0 +1,4 @@
+*.html linguist-language=none
+*.js linguist-language=none
+*.tcl linguist-language=none
+*.sh linguist-language=none
